@@ -4,13 +4,13 @@
 
 Developed an interactive dashboard to analyze loan approval and default trends, helping identify high-risk customers.
 
-## 🛠️ Tools Used
+##  Tools Used
 
 * Power BI
 * Data Visualization
 * DAX (Basic KPIs)
 
-## 📊 Dataset
+## Dataset
 
 * Loan dataset with 2000+ records including credit score, loan amount, approval status, and default status
 
@@ -34,7 +34,8 @@ Developed an interactive dashboard to analyze loan approval and default trends, 
 
 ## Project Preview
 
-![Dashboard](dashboard.png)
+<img width="1140" height="732" alt="image" src="https://github.com/user-attachments/assets/6d9feaf4-677c-4ccf-8fe2-e5020ec1b283" />
+
 
 ##  Key Insights
 
